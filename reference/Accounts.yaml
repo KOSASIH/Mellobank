@@ -27,7 +27,7 @@ paths:
         description: Id of an existing user.
     get:
       summary: Get User Info by User ID
-      tags: [Accounts]
+      tags: []
       responses:
         '200':
           description: User Found
