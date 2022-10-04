@@ -2255,12 +2255,7 @@
       "formats": ["oas2", "oas3", "oas3.0", "oas3.1"],
       "spectralExtends": [],
       "formats": ["oas2", "oas3", "oas3.0", "oas3.1"],
-      "formats": [
-        "oas2",
-        "oas3",
-        "oas3.0",
-        "oas3.1"
-      ],
+      "formats": ["oas2", "oas3", "oas3.0", "oas3.1"],
       "aliases": {
         "API_Document": {
           "description": "The complete API specification document. This can be used to target any part of the OpenAPI document using **field**.\n\n*Use this if you don't find specific targets that cater to your usecase.* ",
