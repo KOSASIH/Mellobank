@@ -1,19 +1,19 @@
 openapi: 3.1.0
 x-stoplight:
-  id: ap3yap66sfu7s
+  id: cc9cebdqn28me
 info:
-  title: Account
+  title: Changer
   version: "1.0"
-  summary: Account
-  description: API service that provides customer account information
+  summary: Changer
+  description: An API that serves to provide currency exchange services
   contact:
     name: KOSASIH
     email: kosasihg88@gmail.com
-    url: www.linkedin.com/in/kosasih-81b46b5a
-  termsOfService: "https://github.com/KOSASIH/Mellobank/blob/main/docs/terms.md"
+    url: "https://www.linkedin.com/in/kosasih-81b46b5a"
   license:
     name: MIT
     url: "https://github.com/KOSASIH/Mellobank/blob/main/LICENSE"
+  termsOfService: "https://github.com/KOSASIH/Mellobank/blob/main/docs/terms.md"
 servers:
   - url: "http://localhost:3000"
     description: KOSASIH
@@ -199,4 +199,4 @@ components:
         - email
         - emailVerified
 tags:
-  - name: Account
+  - name: Exchange
