@@ -1,6 +1,6 @@
 {
   "name": "Mellobank",
-  "description": "",
+  "description": "Smartbank for all financial and banking transactions",
   "spectralExtends": [],
   "formats": ["oas2", "oas3", "oas3.0", "oas3.1"],
   "aliases": {},
